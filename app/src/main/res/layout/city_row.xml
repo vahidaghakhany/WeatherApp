@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/city_name_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/TextView.Small"
+        android:textColor="@color/md_blue_grey_600"
+        android:gravity="left"
+        android:padding="20dp"
+        />
+</LinearLayout>
